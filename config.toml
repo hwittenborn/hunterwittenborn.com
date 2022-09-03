@@ -1,0 +1,43 @@
+baseURL = 'http://hunterwittenborn.com/'
+languageCode = 'en-us'
+title = 'Hunter Wittenborn'
+theme = "PaperMod"
+
+[params]
+ShowCodeCopyButtons = true
+ShowReadingTime = true
+
+[params.profileMode]
+enabled = true
+imageUrl = "/profile.jpg"
+
+[[params.profileMode.buttons]]
+name = "Blog"
+url = "/blog"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:hunter@hunterwittenborn.com"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/hwittenborn"
+
+[[params.socialIcons]]
+name = "gitlab"
+url = "https://gitlab.com/hwittenborn"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/hwittenborn/"
+
+[[params.socialIcons]]
+name = "matrix"
+url = "https://matrix.to/#/@hunter:hunterwittenborn.com"
+
+[[params.socialIcons]]
+name = "rss"
+url = "/index.xml"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
