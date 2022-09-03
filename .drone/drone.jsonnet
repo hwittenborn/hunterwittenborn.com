@@ -15,7 +15,8 @@ local buildAndPublish() = {
             "curl -q \"https://proget.$${hw_url}/debian-feeds/prebuilt-mpr.pub\" | gpg --dearmor | sudo tee /usr/share/keyrings/prebuilt-mpr-archive-keyring.gpg 1> /dev/null",
             "echo \"deb [signed-by=/usr/share/keyrings/prebuilt-mpr-archive-keyring.gpg]\" https://proget.$${hw_url} prebuilt-mpr focal | sudo tee /etc/apt/sources.list.d/prebuilt-mpr.list",
             "sudo apt-get update",
-            "sudo apt-get install hugo -y",
+            "sudo apt-get install hugo git -y",
+            "sudo git submodule update --init --recursive",
             "find /var/www/hunterwittenborn.com/ -mindepth 1 -maxdepth 1 -exec sudo rm -rf '{}' +",
             "sudo hugo -d /var/www/hunterwittenborn.com --minify"
         ]
