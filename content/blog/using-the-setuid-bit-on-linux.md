@@ -3,6 +3,8 @@ title: "Using the Setuid Bit on Linux"
 date: 2022-09-03T11:44:51-05:00
 ---
 
+> **NOTE**: I'm not entirely sure the statements made about how Setuid works towards the end of this article are correct. It looks like Setuid is more complicated than I first thought, and I'm not guaranteeing the accuracy of the staements in this article.
+
 The Setuid bit makes a program get executed by whatever program **owns** a file, regardless of who is *executing* it.
 
 Consider we have an executable named `task` that is owned by `root` with the Setuid bit set. If we run the program as `root`, it gets executed as `root` like you'd expect. The fun parts comes in when you execute it as a different user: if we execute it as a user such as `hunter`, it still gets ran as root!
