@@ -26,7 +26,7 @@ jobs:
       - name: Install Hugo
         run: sudo apt-get install hugo -y
       - name: Build site
-        run: hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+        run: hugo --minify --baseURL 'https://hunterwittenborn.com'
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v1
         with:
