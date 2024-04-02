@@ -38,6 +38,10 @@ name = "linkedin"
 url = "https://www.linkedin.com/in/hwittenborn/"
 
 [[params.socialIcons]]
+name = "discord"
+url = "https://discord.gg/FtNhPepvj7"
+
+[[params.socialIcons]]
 name = "matrix"
 url = "https://matrix.to/#/@hunter-wittenborn:matrix.org"
 
