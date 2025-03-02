@@ -76,6 +76,6 @@ We also reached out to potential business customers directly, and managed to get
 ## Go team!
 I just can't stress this enough. Our team ***would not*** have gotten where we ended up at if it wasn't for the contributions from *every single* member we had. Our skills all played beautifully into the idea we unleashed, and I'm tremendously proud of the work we produced.
 
-Not only did we make something spectacular, but we bonded as a team in ways that can only be created in environments like this. We're all ready to continue forward down our paths, all alongside each other as we continue to create bigger, better, and impactful solutions.
+Not only did we make something spectacular, but we bonded as a team in ways that can only be created in environments like this. We're all ready to continue forward down our paths, all alongside each other as we continue to create bigger, better, and more impactful solutions.
 
 > **P.S.** We'd love to hear from you [Costco](https://www.linkedin.com/company/costco-wholesale)! Rest assured, we always bring the ***BOOOOOOOOOOOOOOOM!***
