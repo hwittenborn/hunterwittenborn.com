@@ -71,6 +71,8 @@ Delegation of priorities was *paramount* to the success we would eventually achi
 ### Making it presentable
 Not only did we have to make our application itself, we needed to make this product *perfect* for capturing the attention of our critics. Alongside our application, we had concise, thought-focused conversations to ensure our entire business strategy was good to go, all the way from product descriptions to profitability outlets.
 
+We also reached out to potential business customers directly, and managed to get expected usage rates and valuations for our product.
+
 ## Go team!
 I just can't stress this enough. Our team ***would not*** have gotten where we ended up at if it wasn't for the contributions from *every single* member we had. Our skills all played beautifully into the idea we unleashed, and I'm tremendously proud of the work we produced.
 
