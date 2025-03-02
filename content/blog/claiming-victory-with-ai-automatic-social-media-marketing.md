@@ -43,7 +43,7 @@ With that said, we can proceed to the fun part:
 </div>
 
 ### 3. Automatic deployment to social platforms (duh)
-Now that we have access to the information needed to run a proper campaign, Promo Pilot generates the posts needed for various social media platforms. As of the time of writing, this entails LinkedIn and Instagram:
+Now that we have access to the information needed to run a proper campaign, PromoPilot generates the posts needed for various social media platforms. As of the time of writing, this entails LinkedIn and Instagram:
 
 ![socials example](/posts/claiming-victory-with-ai-automatic-social-media-marketing/socials-example.png)
 
