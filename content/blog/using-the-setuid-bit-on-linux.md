@@ -1,6 +1,7 @@
 ---
 title: "Using the Setuid Bit on Linux"
 date: 2022-09-03T11:44:51-05:00
+draft: true
 ---
 
 > **NOTE**: I'm not entirely sure the statements made about how Setuid works towards the end of this article are correct. It looks like Setuid is more complicated than I first thought, and I'm not guaranteeing the accuracy of the staements in this article.
