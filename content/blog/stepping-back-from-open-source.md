@@ -12,7 +12,7 @@ The unfortunate reality is that I simply don't have the time to contribute at th
 I know this directly affects my two biggest projects:
 
 - [Celeste](https://github.com/hwittenborn/celeste)
-- [makedeb](https://makedeb.org)
+- [makedeb](https://makedeb.org) (see [Pacstall](https://pacstall.dev/) as an alternative).
 
 To everyone who uses these tools or has contributed to them: **_thank you_**. I know that a lack of active maintenance can be frustrating, and I want to be honest that I won't be able to give them the attention they need.
 
