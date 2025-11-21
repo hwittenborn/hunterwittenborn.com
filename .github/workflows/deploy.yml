@@ -18,11 +18,6 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
-      - name: Setup makedeb APT repositories
-        uses: makedeb/setup-makedeb@main
-        with:
-          makedeb-repo: false
-          pbmpr-repo: true
       - name: Install Hugo
         run: sudo apt-get install hugo -y
       - name: Build site
