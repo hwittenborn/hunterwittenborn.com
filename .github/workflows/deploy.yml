@@ -19,7 +19,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v4
       - name: Install Hugo
-        run: sudo apt-get install hugo -y
+        run: sudo snap install hugo
       - name: Build site
         run: hugo --minify --baseURL 'https://hunterwittenborn.com'
       - name: Upload site artifact
