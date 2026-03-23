@@ -1,1 +1,3 @@
-{"m.server":"matrix.hunterwittenborn.com:443"}
+{
+  "m.server": "api.matrix.hunterwittenborn.com:443"
+}
